@@ -1,4 +1,4 @@
- # Build Rock, Paper and Scissors Game with React JS
+  # Build Rock, Paper and Scissors Game with React JS
 
 This repository contains code for rock,paper and scissors game in reactjs.
 
